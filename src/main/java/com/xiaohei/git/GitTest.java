@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("合并-master");
         System.out.println("hot-fix!!!!!");
         System.out.println("更新代码!!!");
+        System.out.println("更新代码hithub!!!");
     };
 }
